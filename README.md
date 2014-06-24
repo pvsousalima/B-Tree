@@ -6,7 +6,6 @@ Alunos: Pedro Augusto, Pedro Victor, Rogério Dias
 
 
 
-
 Compile and run
 ---------------
 
@@ -31,7 +30,7 @@ Options:
 
 ##### 2 - Run the output.
 
-    ./DNA_Processing
+    ./btree
 
 
 Requirements
